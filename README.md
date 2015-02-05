@@ -3,6 +3,7 @@ Please preserve sorted order (by first name).
 
 - Aaron Taylor https://github.com/ExPHAT
 - Abbass Ayoub https://github.com/Abyssinian
+- Abdullah Shahid https://github.com/AbdullahShahidCODE
 - Abhi Gupta https://github.com/AbhiGupta47
 - Albert Zhan https://github.com/albertzhan
 - Alex Liu https://github.com/alexliu245
