@@ -29,6 +29,7 @@ Please preserve sorted order (by first name).
 - Michael Ala https://github.com/Michaelfonzolo
 - Paul Krishnamurthy https://github.com/paulKr
 - Rikin Katyal https://github.com/rikinkatyal
+- Rishi Patel https://github.com/RishiPatel2
 - Roman Seviaryn https://github.com/romanumerals
 - Shadman Hassan https://github.com/Shadow7599
 - Shahir Chowdhury https://github.com/ry622
@@ -39,7 +40,5 @@ Please preserve sorted order (by first name).
 - Vasav Shah https://github.com/vasav123
 - Yasin Avci https://github.com/Hybridization
 - Yuri Chernyak https://github.com/yurichernyakl
-- Rishi Patel https://github.com/RishiPatel2
-- Yuri Chernyak https://github.com/yurichernyak
 - Zihao Zhang https://github.com/zzh8829
 
