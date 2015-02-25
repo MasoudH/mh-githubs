@@ -10,6 +10,7 @@ Please preserve sorted order (by first name).
 - Alex Popovic https://github.com/SerbNerd
 - Andras Varga https://github.com/andrassv
 - Aryan Kurniawan https://github.com/AryanKurniawan
+- Atilla Saadat https://github.com/not-cosmo
 - Ben Cheung https://github.com/MrBenC88
 - Christopher Gregorian https://github.com/csgregorian
 - David Wang https://github.com/DarkMatter358
