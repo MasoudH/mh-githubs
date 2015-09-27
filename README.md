@@ -29,7 +29,7 @@ Please preserve sorted order (by first name).
 - Menushka Weeratunga https://github.com/ChaosGodEX
 - Michael Ala https://github.com/Michaelfonzolo
 - Paul Krishnamurthy https://github.com/paulKr
-- Rikin Katyal https://github.com/rikinkatyal
+- Rikin Katyal https://github.com/sirvar
 - Rishi Patel https://github.com/RishiPatel2
 - Roman Seviaryn https://github.com/romanumerals
 - Shadman Hassan https://github.com/Shadow7599
