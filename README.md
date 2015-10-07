@@ -16,7 +16,7 @@ Please preserve sorted order (by first name).
 - David Wang https://github.com/DarkMatter358
 - Denis Karch https://github.com/Drag0n0x
 - Diana Chang https://github.com/DChang87
-- Dilpreet Chana https://github.com/dilpreetC
+- Dilpreet Chana https://github.com/DSchana
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Frank Gu https://github.com/roflwaffl
 - Himel Mondal https://github.com/G-Mel
